@@ -9,8 +9,8 @@
 - 🌱 I’m currently learning **Node.js, Express, MySQL, mongoDB**.
 - 🌱 저는 현재 **Node.js, Express, MySQL, mongoDB**를 공부하고 있습니다.
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4](https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4).
-- 👨‍💻 저의 프로젝트는 [https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4](https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4)에서 볼 수 있습니다.
+- 👨‍💻 All of my projects are available at [https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=12](https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=12).
+- 👨‍💻 저의 프로젝트는 [https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=12](https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=12)에서 볼 수 있습니다.
 
 - 📫 How to reach me **lch2023@naver.com**
 - 📫 연락 방법 **lch2023@naver.com**
