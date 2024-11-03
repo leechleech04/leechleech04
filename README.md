@@ -1,13 +1,19 @@
 
 
 <h1 align="center">Hello World👋, I'm Chanhyeong Lee (Leech).</h1>
+<h1 align="center">안녕하세요👋, 저는 이찬형(Leech)입니다.</h1>
+
 <h3 align="center">A passionate programming student who wants to be a full stack developer.</h3>
+<h3 align="center">풀스택 개발자가 되기 위해 열정적으로 프로그래밍을 배우고 있습니다.</h3>
 
-- 🌱 I’m currently learning **Node.js, Express, MySQL, mongoDB.**
+- 🌱 I’m currently learning **Node.js, Express, MySQL, mongoDB**.
+- 🌱 저는 현재 **Node.js, Express, MySQL, mongoDB**를 공부하고 있습니다.
 
-- 👨‍💻 All of my projects are available at [https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4](https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4)
+- 👨‍💻 All of my projects are available at [https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4](https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4).
+- 👨‍💻 저의 프로젝트는 [https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4](https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4)에서 볼 수 있습니다.
 
 - 📫 How to reach me **lch2023@naver.com**
+- 📫 연락 방법 **lch2023@naver.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
