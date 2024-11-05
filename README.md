@@ -15,8 +15,8 @@
           <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">를 공부하고 있습니다.
 
-- 👨‍💻 All of my projects are available at <a href=https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4"> </a>.
-- 👨‍💻 저의 프로젝트는 <a href=https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4"> </a>에서 볼 수 있습니다.
+- 👨‍💻 All of my projects are available at <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4">.
+- 👨‍💻 저의 프로젝트는<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link=https://www.notion.so/133cdbe19e858052815fefdc045b279d?pvs=4">에서 볼 수 있습니다.
 
 - 📫 How to reach me **lch2023@naver.com**
 - 📫 연락 방법 **lch2023@naver.com**
