@@ -60,9 +60,6 @@
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
 <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leechleech04&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="30%" />
-</p>
-<p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=leechleech04&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="48%" />
     <img src="https://github-readme-stats.vercel.app/api?username=leechleech04&show_icons=true&locale=en" alt="GitHub Stats" width="48%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=leechleech04&" alt="Streak Stats" width="48%" />
 </p>
