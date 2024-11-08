@@ -39,7 +39,7 @@
 
 <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
 <br>
-<p align="left">
+<p>
 <a href="https://instagram.com/leechleech_04" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leechleech_04" height="30" width="40" />
 </a>
