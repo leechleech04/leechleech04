@@ -21,10 +21,10 @@
 
 <ul>
     <li>
-        👨‍💻 All of my projects are available at <a href="https://www.notion.so/Leech-139cdbe19e85808997f7ff1b65abc423?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="></a>.
+        👨‍💻 All of my projects are available at <a href="https://chartreuse-vein-5bb.notion.site/Leech-139cdbe19e85808997f7ff1b65abc423" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="></a>.
     </li>
     <li>
-        👨‍💻 저의 프로젝트는 <a href="https://www.notion.so/Leech-139cdbe19e85808997f7ff1b65abc423?pvs=4" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="></a>에서 볼 수 있습니다.
+        👨‍💻 저의 프로젝트는 <a href="https://chartreuse-vein-5bb.notion.site/Leech-139cdbe19e85808997f7ff1b65abc423" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="></a>에서 볼 수 있습니다.
     </li>
 </ul>
 
