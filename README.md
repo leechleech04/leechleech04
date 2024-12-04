@@ -77,6 +77,7 @@
         </td>
         <td style="border: 1px solid black;">
             <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
+            <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">
         </td>
     </tr>
 </table>
