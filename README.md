@@ -6,16 +6,14 @@
 
 <ul>
     <li>
-        🌱 I’m currently learning <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-        <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=white">
+        🌱 I’m currently learning <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
         <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">
         <img src="https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=Passport&logoColor=white">.
     </li>
     <li>
-        🌱 저는 현재 <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
-        <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=white">
+        🌱 저는 현재 <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=Mongoose&logoColor=white">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
         <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
         <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">
@@ -58,8 +56,6 @@
     <tr>
         <th style="border: 1px solid black;">Frontend</th>
         <th style="border: 1px solid black;">Backend</th>
-        <th style="border: 1px solid black;">Language</th>
-        <th style="border: 1px solid black;">Dev Tool</th>
     </tr>
     <tr>
         <td style="border: 1px solid black;">
@@ -70,6 +66,18 @@
             <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
             <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
             <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=EJS&logoColor=white">
+        </td>
+    </tr>
+</table>
+<table>
+    <tr>
+        <th style="border: 1px solid black;">Database</th>
+        <th style="border: 1px solid black;">Language</th>
+        <th style="border: 1px solid black;">Dev Tool</th>
+    </tr>
+    <tr>
+        <td style="border: 1px solid black;">
+            <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MongoDB&logoColor=white">
         </td>
         <td style="border: 1px solid black;">
             <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
