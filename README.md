@@ -6,10 +6,10 @@
 
 <ul>
     <li>
-        🌱 I’m currently learning <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">.
+        🌱 I’m currently learning <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">.
     </li>
     <li>
-        🌱 저는 현재 <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">를 공부하고 있습니다.
+        🌱 저는 현재 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">를 공부하고 있습니다.
     </li>
 </ul>
 
@@ -62,6 +62,7 @@
             <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=Express&logoColor=white">
             <img src="https://img.shields.io/badge/Passport-34E27A?style=for-the-badge&logo=Passport&logoColor=white">
             <img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
+            <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">
         </td>
     </tr>
 </table>
