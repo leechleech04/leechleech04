@@ -12,7 +12,7 @@
 
 <ul>
     <li>
-        👨‍💻 All of my projects are available at <a href="https://chartreuse-vein-5bb.notion.site/Leech-139cdbe19e85808997f7ff1b65abc423" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="></a>
+        👨‍💻 All of my projects are available at <a href="https://leech-portfolio.notion.site/Leech-139cdbe19e85808997f7ff1b65abc423" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="></a>
         <a href="#" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link="></a>.
     </li>
 </ul>
