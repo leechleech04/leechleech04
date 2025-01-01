@@ -1,8 +1,6 @@
 <h1 align="center">Hello World👋, I'm Chanhyeong Lee (Leech).</h1>
-<h1 align="center">안녕하세요👋, 저는 이찬형(Leech)입니다.</h1>
 
 <h3 align="center">A passionate programming student who wants to be a full stack developer.</h3>
-<h3 align="center">풀스택 개발자가 되기 위해 열정적으로 프로그래밍을 배우고 있습니다.</h3>
 
 <ul>
     <li>
@@ -10,39 +8,28 @@
         <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">.
     </li>
-    <li>
-        🌱 저는 현재 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=Redux&logoColor=white">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">를 공부하고 있습니다.
-    </li>
 </ul>
 
 <ul>
     <li>
         👨‍💻 All of my projects are available at <a href="https://chartreuse-vein-5bb.notion.site/Leech-139cdbe19e85808997f7ff1b65abc423" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="></a>.
     </li>
-    <li>
-        👨‍💻 저의 프로젝트는 <a href="https://chartreuse-vein-5bb.notion.site/Leech-139cdbe19e85808997f7ff1b65abc423" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link="></a>에서 볼 수 있습니다.
-    </li>
 </ul>
 
 <ul>
     <li>
-        📫 How to reach me <b>lch2023@naver.com</b>
-    </li>
-    <li>
-        📫 연락 방법 <b>lch2023@naver.com</b>
+        📫 How to contact me <a href="mailto:lch2023@naver.com" style="color: gray;"><b>lch2023@naver.com</b></a>
     </li>
 </ul>
 
-<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me </h2>
+<h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact Me </h2>
 <br>
 <p>
 <a href="https://instagram.com/leechleech_04" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leechleech_04" height="30" width="40" />
 </a>
-<a href="https://discord.gg/이찬형#3694" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="이찬형#3694" height="30" width="40" />
+<a href="https://www.discord.com/users/454550526361862145" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="454550526361862145" height="30" width="40" />
 </a>
 </p>
 
