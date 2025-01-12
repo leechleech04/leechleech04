@@ -1,6 +1,6 @@
 <h1 align="center">Hello World👋, I'm Chanhyeong Lee (Leech).</h1>
 
-<h3 align="center">A passionate programming student who wants to be a full stack developer.</h3>
+<h3 align="center">Studying programming so as not to regret TODAY</h3>
 
 <ul>
     <li>
