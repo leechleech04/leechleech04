@@ -7,9 +7,7 @@
         🌱 I’m currently learning <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
         <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white">
         <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white">
-        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">.
+        <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">.
     </li>
 </ul>
 
@@ -52,6 +50,10 @@
             <img src="https://img.shields.io/badge/EJS-B4CA65?style=flat-square&logo=EJS&logoColor=white">
             <img src="https://img.shields.io/badge/Nunjucks-1C4913?style=flat-square&logo=Nunjucks&logoColor=white">
             <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat-square&logo=Axios&logoColor=white">
+            <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white">
+            <img src="https://img.shields.io/badge/React Query-FF4154?style=flat-square&logo=React Query&logoColor=white">
+            <img src="https://img.shields.io/badge/React Router-CA4245?style=flat-square&logo=React Router&logoColor=white">
+            <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white">
         </td>
         <td style="border: 1px solid black;">
             <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
@@ -75,6 +77,8 @@
             <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
             <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
+            <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white">
+            <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         </td>
         <td style="border: 1px solid black;">
             <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white">
