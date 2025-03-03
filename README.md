@@ -4,7 +4,8 @@
 
 <ul>
     <li>
-        🌱 I’m currently learning <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">.
+        🌱 I’m currently learning <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS&logoColor=white">.
     </li>
 </ul>
 
