@@ -5,7 +5,8 @@
 <ul>
     <li>
         🌱 I’m currently learning <img src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=white">
-        <img src="https://img.shields.io/badge/Expo-1C2024?style=flat-square&logo=Expo&logoColor=white">.
+        <img src="https://img.shields.io/badge/Expo-1C2024?style=flat-square&logo=Expo&logoColor=white">
+        <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white">.
     </li>
 </ul>
 
