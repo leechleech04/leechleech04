@@ -16,16 +16,13 @@
 
 <ul>
     <li>
-        🌱 I’m currently learning <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-        <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">.
+        🌱 I’m currently learning <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">.
     </li>
 </ul>
 
 <ul>
     <li>
-        👨‍💻 All of my projects are available at <a href="https://leechport.notion.site/Leech-Portfolio-139cdbe19e85808997f7ff1b65abc423" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="></a>
-        <a href="#" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link="></a>.
+        👨‍💻 All of my projects are available at <a href="https://leechport.notion.site/Leech-Portfolio-139cdbe19e85808997f7ff1b65abc423" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white&link="></a>.
     </li>
 </ul>
 
@@ -66,6 +63,7 @@
             <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=Express&logoColor=white">
             <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=Socket.io&logoColor=white">
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white">
+            <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white">
         </td>
     </tr>
 </table>
