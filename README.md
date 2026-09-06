@@ -10,13 +10,13 @@
 
 <ul>
     <li>
-        🛠️ Currently developing <a href="https://github.com/leechleech04/somong-diary"><b>[Somong Diary]</b></a>, a mobile app for recording and interpreting dreams.
+        🛠️ Currently developing <a href="https://github.com/leechleech04/allygo-api"><b>[Allygo]</b></a>.
     </li>
 </ul>
 
 <ul>
     <li>
-        🌱 I’m currently learning <img src="https://img.shields.io/badge/Tensorflow-FF6F00?style=flat-square&logo=Tensorflow&logoColor=white">.
+        🌱 I’m currently learning .
     </li>
 </ul>
 
