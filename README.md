@@ -30,7 +30,12 @@ Backend와 AI Engineering을 공부하며,<br/>
 
 ## 👨‍💻 Projects
 
-[![Projects](https://img.shields.io/badge/프로젝트%20보러%20가기-Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/2a5cdbe19e85805ba88eefbd6051fe7b?pvs=21)
+### 🌙 소몽일기
+
+> 단순한 꿈 기록을 넘어, 사용자의 감정 변화를 시각화하여 자기 이해와 정서 관리에 도움을 주는 감정 기반 AI 일기 앱
+
+[![Notion](https://img.shields.io/badge/프로젝트%20자세히%20보기-Notion-000000?style=flat-square&logo=notion&logoColor=white)](https://app.notion.com/p/2a5cdbe19e85805ba88eefbd6051fe7b?pvs=21)
+
 
 ---
 
